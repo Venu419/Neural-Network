@@ -77,4 +77,25 @@ The ANN model was evaluated before and after hyperparameter tuning. Below is a s
 2. Ensure the dataset `Alphabets_data.csv` is in your working directory.
 3. Open and run the `Neural_Networks.ipynb` notebook.
 4. Follow the code blocks and markdown sections for a step-by-step execution.
+
+# 1. Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+
+# 2. Navigate into the project directory
+cd your-repo-name
+
+# 3. (Optional but recommended) Create a virtual environment
+python -m venv venv
+# Activate it:
+# On Windows:
+venv\Scripts\activate
+# On macOS/Linux:
+source venv/bin/activate
+
+# 4. Install the required dependencies
+pip install -r requirements.txt
+
+# 5. Run the Jupyter Notebook
+jupyter notebook
+
 """
