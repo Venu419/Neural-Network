@@ -3,7 +3,6 @@
 ## 📌 Project Overview
 
 This project involves building an Artificial Neural Network (ANN) to classify alphabet characters using the **"Alphabets_data.csv"** dataset. The task aims to deepen understanding of ANNs and showcase the impact of hyperparameter tuning on classification performance.
-
 ---
 
 ## 📂 Dataset
